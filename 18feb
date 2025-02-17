@@ -1,0 +1,9 @@
+var a=document.{getElementsBy{Class,Tag}()[]//index seema can be obtained by . length()\\,getElementById(),querySelector{,All}}
+a.addEventListener(E,function(event) {
+//example
+var x=new Audio();   //Co
+x.play();
+})
+here E={"click","keydown",etc.}
+Math.random() ---> returns in range [0,1)
+Callback function
